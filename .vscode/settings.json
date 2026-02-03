@@ -1,3 +1,4 @@
 {
-    "debug.toolBarLocation": "commandCenter"
+    "debug.toolBarLocation": "commandCenter",
+    "cmake.ignoreCMakeListsMissing": true
 }
